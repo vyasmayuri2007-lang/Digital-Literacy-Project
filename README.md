@@ -4,25 +4,155 @@ Name - Mayuri Vyas
 
 Reg.No.- 25MIB10060
 
-Digital literacy is the ability to use technology and the internet safely, effectively, and responsibly.Used Canva for a digital literacy presentation, learned design skills. Planned GitHub &amp; LinkedIn for portfolio growth. Used Google Forms &amp; HackerRank to build survey and coding skills.Highlighted importance of professional communication.
+This project focuses on developing essential digital skills required in today’s academic and professional environment. It includes practical tasks such as creating presentations, building a digital portfolio, using online platforms, understanding communication etiquette, and spreading awareness about cyber safety.
 
-Project Overview
+The project emphasizes not only technical knowledge but also responsible and effective use of digital tools.
 
-This project focuses on developing essential digital literacy skills required for students in an increasingly digital world. As part of the assignment, the role assumed is that of a Student Digital Ambassador, responsible for guiding peers in using digital tools effectively, maintaining a professional online presence, and ensuring safe and responsible online behaviour.
+Objectives
 
-Summary
+To understand the concept of digital literacy
 
-This Digital Literacy project helped develop both technical and responsible digital skills. 
-In Task 1, a presentation was created using Canva, focusing on key topics like digital tools, online safety, and email etiquette, while improving creativity and design skills.
+To develop skills in using modern digital tools
 
-Task 2 highlighted the importance of platforms like GitHub and LinkedIn for building a professional portfolio and career growth.
+To build a professional online presence
 
-In Task 3, tools such as Google Forms and HackerRank were used to design a quiz and practice coding, enhancing data handling and problem-solving skills. 
+To improve digital communication skills
 
+To promote awareness about cyber safety and responsible behavior
+
+Project Tasks 
+
+1. Presentation (Canva-Based)
+Created a presentation using Canva
+
+Covered topics:
+Definition of digital literacy
+
+Digital tools
+
+Safe internet practices
+
+Professional online presence
+
+Email etiquette
+
+Focused on:
+
+Clean layout
+
+Use of colors, icons, and structured design
+
+Learning Outcome:
+
+Improved creativity and visual communication skills
+
+2. Digital Portfolio
+
+Platforms Used:
+
+GitHub → For showcasing coding projects
+
+LinkedIn → For professional networking
+
+Key Learnings:
+
+Importance of building a digital identity
+
+Showcasing skills and achievements
+
+Connecting with professionals
+
+Future Plan:
+
+Upload projects on GitHub
+
+Build a strong LinkedIn profile
+
+Stay updated with industry trends
+
+3. Digital Platforms
+
+Tools Used:
+
+Google Forms → Created a quiz
 Link for quiz - https://forms.gle/8fcf1pXbeiR9ZWkP8
 
-Task 4 emphasized the importance of proper digital communication, showing how tone and structure in emails affect professional relationships. 
+HackerRank → Solved “Solve Me First” problem
 
-Task 5 increased awareness about cyberbullying and encouraged responsible online behavior.
+Skills Developed:
 
-Overall, the project demonstrated that digital literacy is not just about using technology but also about communication, safety, and professionalism. It has improved confidence in using digital platforms effectively and responsibly for academic and future career success.
+Survey creation and data collection
+
+Basic programming and problem-solving
+
+Logical thinking
+
+4. Digital Communication
+
+Case Study:
+
+Poorly written email led to misunderstanding with a professor
+
+Key Learnings:
+
+Importance of:
+
+Proper greeting
+
+Clear explanation
+
+Respectful tone
+
+Outcome:
+
+Improved understanding of professional email etiquette
+
+5. Cybercrime Awareness
+
+Topic: Cyberbullying
+
+Observations:
+
+Online negativity spreads quickly
+
+Anonymity increases harmful behavior
+
+Personal Improvement:
+
+Be mindful while posting online
+
+Avoid engaging in negative content
+
+Report harmful activities
+
+Tools & Technologies Used
+Canva
+Google Forms
+HackerRank
+GitHub
+LinkedIn
+
+Key Features of the Project
+
+Practical and hands-on learning
+
+Combination of creativity and technical skills
+
+Real-world application of digital tools
+
+Focus on safety and responsible usage
+
+Challenges Faced
+Maintaining proper alignment and spacing in design
+Understanding professional communication tone
+Managing multiple platforms effectively
+
+Future Scope
+Build a stronger digital portfolio
+Improve coding and technical skills
+Engage in more online collaborations
+Stay updated with digital trends
+
+Conclusion
+
+This Digital Literacy Project provided a comprehensive understanding of how to use digital tools effectively and responsibly. It highlighted the importance of communication, online safety, and professional presence. The skills gained through this project will be valuable for academic growth and future career opportunities.
