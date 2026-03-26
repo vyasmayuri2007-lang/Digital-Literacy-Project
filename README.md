@@ -9,7 +9,7 @@ This project focuses on developing essential digital skills required in today’
 The project emphasizes not only technical knowledge but also responsible and effective use of digital tools.
 
 
-Objectives
+**Objectives**
 
 To understand the concept of digital literacy
 
@@ -22,10 +22,10 @@ To improve digital communication skills
 To promote awareness about cyber safety and responsible behavior
 
 
-Project Tasks 
+**Project Tasks** 
 
 
-1. Presentation (Canva-Based)
+**1. Presentation (Canva-Based)**
 Created a presentation using Canva
 
 Covered topics:
@@ -52,7 +52,7 @@ Improved creativity and visual communication skills
 
 
 
-2. Digital Portfolio
+**2. Digital Portfolio**
 
 Platforms Used:
 
@@ -79,7 +79,7 @@ Stay updated with industry trends
 
 
 
-3. Digital Platforms
+**3. Digital Platforms**
 
 Tools Used:
 
@@ -99,7 +99,7 @@ Logical thinking
 
 
 
-4. Digital Communication
+**4. Digital Communication**
 
 Case Study:
 
@@ -116,7 +116,7 @@ Improved understanding of professional email etiquette
 
 
 
-5. Cybercrime Awareness
+**5. Cybercrime Awareness**
 
 Topic: Cyberbullying
 
@@ -136,7 +136,7 @@ Report harmful activities
 
 
 
-Tools & Technologies Used
+**Tools & Technologies Used**
 Canva
 Google Forms
 HackerRank
@@ -145,7 +145,7 @@ LinkedIn
 
 
 
-Key Features of the Project
+**Key Features of the Project**
 
 Practical and hands-on learning
 
@@ -157,7 +157,7 @@ Focus on safety and responsible usage
 
 
 
-Challenges Faced
+**Challenges Faced**
 
 Maintaining proper alignment and spacing in design
 
@@ -167,7 +167,7 @@ Managing multiple platforms effectively
 
 
 
-Future Scope
+**Future Scope**
 
 Build a stronger digital portfolio
 
@@ -177,8 +177,11 @@ Engage in more online collaborations
 
 Stay updated with digital trends
 
+**Links -**
+Google form - https://forms.gle/8fcf1pXbeiR9ZWkP8
+GitHub repo- https://github.com/vyasmayuri2007-lang/Digital-Literacy-Project/tree/main
 
 
-Conclusion
+**Conclusion**
 
 This Digital Literacy Project provided a comprehensive understanding of how to use digital tools effectively and responsibly. It highlighted the importance of communication, online safety, and professional presence. The skills gained through this project will be valuable for academic growth and future career opportunities.
