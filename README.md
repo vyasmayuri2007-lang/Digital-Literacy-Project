@@ -8,6 +8,7 @@ This project focuses on developing essential digital skills required in today’
 
 The project emphasizes not only technical knowledge but also responsible and effective use of digital tools.
 
+
 Objectives
 
 To understand the concept of digital literacy
@@ -20,7 +21,9 @@ To improve digital communication skills
 
 To promote awareness about cyber safety and responsible behavior
 
+
 Project Tasks 
+
 
 1. Presentation (Canva-Based)
 Created a presentation using Canva
@@ -36,6 +39,7 @@ Professional online presence
 
 Email etiquette
 
+
 Focused on:
 
 Clean layout
@@ -45,6 +49,8 @@ Use of colors, icons, and structured design
 Learning Outcome:
 
 Improved creativity and visual communication skills
+
+
 
 2. Digital Portfolio
 
@@ -62,6 +68,7 @@ Showcasing skills and achievements
 
 Connecting with professionals
 
+
 Future Plan:
 
 Upload projects on GitHub
@@ -69,6 +76,8 @@ Upload projects on GitHub
 Build a strong LinkedIn profile
 
 Stay updated with industry trends
+
+
 
 3. Digital Platforms
 
@@ -79,6 +88,7 @@ Link for quiz - https://forms.gle/8fcf1pXbeiR9ZWkP8
 
 HackerRank → Solved “Solve Me First” problem
 
+
 Skills Developed:
 
 Survey creation and data collection
@@ -86,6 +96,8 @@ Survey creation and data collection
 Basic programming and problem-solving
 
 Logical thinking
+
+
 
 4. Digital Communication
 
@@ -95,27 +107,24 @@ Poorly written email led to misunderstanding with a professor
 
 Key Learnings:
 
-Importance of:
+Importance of: Proper greeting ,Clear explanation ,Respectful tone
 
-Proper greeting
-
-Clear explanation
-
-Respectful tone
 
 Outcome:
 
 Improved understanding of professional email etiquette
+
+
 
 5. Cybercrime Awareness
 
 Topic: Cyberbullying
 
 Observations:
-
 Online negativity spreads quickly
 
 Anonymity increases harmful behavior
+
 
 Personal Improvement:
 
@@ -125,12 +134,16 @@ Avoid engaging in negative content
 
 Report harmful activities
 
+
+
 Tools & Technologies Used
 Canva
 Google Forms
 HackerRank
 GitHub
 LinkedIn
+
+
 
 Key Features of the Project
 
@@ -142,6 +155,8 @@ Real-world application of digital tools
 
 Focus on safety and responsible usage
 
+
+
 Challenges Faced
 
 Maintaining proper alignment and spacing in design
@@ -149,6 +164,8 @@ Maintaining proper alignment and spacing in design
 Understanding professional communication tone
 
 Managing multiple platforms effectively
+
+
 
 Future Scope
 
@@ -159,6 +176,8 @@ Improve coding and technical skills
 Engage in more online collaborations
 
 Stay updated with digital trends
+
+
 
 Conclusion
 
