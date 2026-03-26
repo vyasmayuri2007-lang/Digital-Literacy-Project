@@ -19,6 +19,8 @@ Task 2 highlighted the importance of platforms like GitHub and LinkedIn for buil
 
 In Task 3, tools such as Google Forms and HackerRank were used to design a quiz and practice coding, enhancing data handling and problem-solving skills. 
 
+Link for quiz - https://forms.gle/8fcf1pXbeiR9ZWkP8
+
 Task 4 emphasized the importance of proper digital communication, showing how tone and structure in emails affect professional relationships. 
 
 Task 5 increased awareness about cyberbullying and encouraged responsible online behavior.
