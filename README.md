@@ -143,14 +143,21 @@ Real-world application of digital tools
 Focus on safety and responsible usage
 
 Challenges Faced
+
 Maintaining proper alignment and spacing in design
+
 Understanding professional communication tone
+
 Managing multiple platforms effectively
 
 Future Scope
+
 Build a stronger digital portfolio
+
 Improve coding and technical skills
+
 Engage in more online collaborations
+
 Stay updated with digital trends
 
 Conclusion
